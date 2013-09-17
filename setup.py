@@ -7,7 +7,7 @@ except:
 
 
 setup(
-    name="show_tests_doc",
+    name="showtestsdoc",
     version="0.1",
     description="Nosetests plugin to show short tests docstring",
     long_description=desc,

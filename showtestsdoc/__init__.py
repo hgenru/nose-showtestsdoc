@@ -1,1 +1,1 @@
-from show_tests_doc import *
+from showtestsdoc import *
