@@ -1,10 +1,10 @@
 nose-showtestsdoc
 =================
 
-Nosetests plugin to show short test docstring
+Nosetests plugin to show short test docstring. 
+Not recommended for use with other plug-ins.
 
 Usage
 ------
-Use:
-$ nosetests --show-tests
-Not recommended for use with other plug-ins
+
+    $ nosetests --show-tests
