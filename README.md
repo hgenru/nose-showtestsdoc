@@ -7,4 +7,4 @@ Not recommended for use with other plug-ins.
 Usage
 ------
 
-    $ nosetests --show-tests
+    $ nosetests --tests-doc
